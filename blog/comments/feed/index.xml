@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentáře k Blog Plzeňský Barcamp	</title>
+	<atom:link href="https://blog.plzenskybarcamp.cz/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Blogujeme o přípravách Plzeňského Barcampu</description>
+	<lastBuildDate>Sun, 17 Apr 2016 17:17:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>
+		Komentář k příspěvku Přednášky a networking aneb jak vytěžit Barcamp na stopro od Jak jsem nastartovala svou dráhu freelancera na barcampu		</title>
+		<link>/2016/03/14/prednasky-a-networking/#comment-5</link>
+
+		<dc:creator><![CDATA[Jak jsem nastartovala svou dráhu freelancera na barcampu]]></dc:creator>
+		<pubDate>Sun, 17 Apr 2016 17:17:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=21#comment-5</guid>
+
+					<description><![CDATA[[&#8230;] Hned na úvod chci sdílet své dojmy z jedné perfektní akce, na které jsem měla příležitost přiložit svou ruku k dílu. A byl to v řadě již třetí ročník Plzeňského Barcampu. Pravděpodobně mnozí z vás barcampy znáte, já musím přiznat, že jsem k tomu všemu přišla jak slepá k houslím (nebo jako kozel k zahradnictví?) a akce tohoto typu pro mne byla úplná novinka. Pro ty, kteří na tom jsou stejně jako jsem byla já &#8211; cílem barcampů je shromáždit na jednom místě co nejvíc lidí z různých odvětví avšak se stejným zájmem &#8211; vzájemně se inspirovat. Na barcampech můžete poznat nové lidi, kteří vás ve vaší práci mohou posunout dále, můžete se naučit novým klíčovým znalostem či dovednostem. Nicméně pár náhod vedlo k tomu, že jsem se najednou stala oficiální blogerkou tohohle super eventu. A jaký všechen potenciál v sobě barcampy sdružují jsem popisovala v mém vůbec prvním příspěvku. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Hned na úvod chci sdílet své dojmy z jedné perfektní akce, na které jsem měla příležitost přiložit svou ruku k dílu. A byl to v řadě již třetí ročník Plzeňského Barcampu. Pravděpodobně mnozí z vás barcampy znáte, já musím přiznat, že jsem k tomu všemu přišla jak slepá k houslím (nebo jako kozel k zahradnictví?) a akce tohoto typu pro mne byla úplná novinka. Pro ty, kteří na tom jsou stejně jako jsem byla já &#8211; cílem barcampů je shromáždit na jednom místě co nejvíc lidí z různých odvětví avšak se stejným zájmem &#8211; vzájemně se inspirovat. Na barcampech můžete poznat nové lidi, kteří vás ve vaší práci mohou posunout dále, můžete se naučit novým klíčovým znalostem či dovednostem. Nicméně pár náhod vedlo k tomu, že jsem se najednou stala oficiální blogerkou tohohle super eventu. A jaký všechen potenciál v sobě barcampy sdružují jsem popisovala v mém vůbec prvním příspěvku. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
